@@ -1,0 +1,65 @@
+.body {
+  background-color: rgb(202, 203, 204);
+  text-align: center;
+}
+.para {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: rgb(2, 2, 83);
+}
+.h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 35px;
+  color: rgb(0, 36, 80);
+}
+.firstSection {
+  display: inline-block;
+  width: 33%;
+}
+.secondSection {
+  display: inline-block;
+  width: 33%;
+}
+.img {
+  width: 60%;
+  border-radius: 5px;
+  border: solid;
+  border-color: rgb(0, 36, 80);
+}
+.heading {
+  font-size: 70px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(0, 36, 80);
+}
+.raksti p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  color: rgb(2, 2, 83);
+}
+.elem {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.elem span {
+  border: solid;
+  border-color: rgb(0, 138, 145);
+  border-radius: 55px;
+  background-color: white;
+  color: rgb(0, 138, 145);
+  padding: 10px 30px 10px 30px;
+}
+
+.head6 {
+  font-size: 18px;
+  color: rgb(0, 138, 145);
+}
+
+.copy {
+  color: rgb(2, 2, 83);
+}
+
+.end > blockquote {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
